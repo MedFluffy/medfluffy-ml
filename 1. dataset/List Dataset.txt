@@ -1,0 +1,15 @@
+List of Datasets :
+
+1. Nuclear sclerosis
+   Description 		: nuclear sclerosis eye section for dogs
+   Amount of data 	: 1.5k train + 120 validation + 70 test
+   Amount of data used	: 1344 train + 168 validation + 168 test
+   Source 		: Roboflow
+   Link 		: https://universe.roboflow.com/dog-eyes/nuclear-sclerosis-vxo0b
+
+1. Healthy
+   Description 		: Healty eye for dogs
+   Amount of data	: 1.7k train + 70 validation + 70 test
+   Amount of data used 	: 1344 train + 168 validation + 168 test
+   Source		: Roboflow 	
+   Link			: https://universe.roboflow.com/dog-eyes/healthy-ul8lw
